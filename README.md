@@ -43,7 +43,7 @@
     <a href="mailto:gyfl23242@naver.com">
       <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="Naver Mail">
     </a>
-    <a href="https://blog-xi-hazel.vercel.app" target="_blank">
+    <a href="https://blog-neon-mu.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Vercel&logoColor=white" alt="Blog">
     </a>
   </div>  
